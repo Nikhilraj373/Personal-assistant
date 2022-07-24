@@ -48,7 +48,7 @@ int main()
 {
     system("cls");
 
-    cout<<"\t<###################################  PERSONAL ASSISSTANT ########################################"<<endl<<endl;
+    cout<<"<###################################  PERSONAL ASSISSTANT ########################################"<<endl<<endl;
 
     string password;
     string command;
